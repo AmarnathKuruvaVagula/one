@@ -879,7 +879,7 @@
     <!-- Trending Products -->
     <section class="container">
         <div class="section-title">
-            <h2>Trending Products</h2>
+            <h2>OLD Products</h2>
             <p>Discover what's popular right now</p>
         </div>
         
